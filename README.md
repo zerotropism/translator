@@ -16,6 +16,3 @@ python translate_online_flask.py
 ```bash
 python example_request.py
 ```
-
-**5\. GUI**
-To be defined
