@@ -1,0 +1,6 @@
+fairseq
+requests
+sacremoses
+subword-nmt
+flask
+flask_cors
